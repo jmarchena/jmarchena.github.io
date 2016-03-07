@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi I'm Jose Marchena and I work as iOS Developer [@Opentrends](https://twitter.com/opentrends).
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can contact me via jmt255 at gmail dot com. I created [NoMoreLate](https://itunes.apple.com/es/app/no-more-late!-optimise-your/id975003162?l=en&mt=8). I write here sometimes about new things I'm learning.
